@@ -4,9 +4,13 @@ Implemented into a TKinter GUI which had a button to train the model, a button t
 
 ## Required packages: 
 -CSV 
+
 -Tkinter 
+
 -OpenCV 
+
 -Scikit.learn
+
 
 ## Warning:
 - line 16 with variable named "mnist_train.csv", is the csv file file containing the mnist data set to train the model, the file was too large to upload to the repository
